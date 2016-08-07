@@ -1,0 +1,26 @@
+{
+  "name": "core-js-webpack-plugin",
+  "version": "1.0.0",
+  "description": "core-js builder as a Webpack Plugin",
+  "main": "index.js",
+  "author": "PatrickJS <patrick@angularclass.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "core-js-builder": "^2.4.1"
+  },
+  "peerDependencies": {
+    "webpack": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdi2290/core-js-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdi2290/core-js-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/gdi2290/core-js-webpack-plugin#readme"
+}
