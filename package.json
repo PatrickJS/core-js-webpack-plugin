@@ -1,10 +1,17 @@
 {
   "name": "core-js-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "core-js builder as a Webpack Plugin",
   "main": "index.js",
   "author": "PatrickJS <patrick@angularclass.com>",
   "license": "Apache-2.0",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "core-js",
+    "builder",
+    "webpackplugin"
+  ],
   "dependencies": {
     "core-js-builder": "^2.4.1"
   },
