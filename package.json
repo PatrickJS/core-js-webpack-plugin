@@ -1,6 +1,6 @@
 {
   "name": "core-js-webpack-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "core-js builder as a Webpack Plugin",
   "main": "index.js",
   "author": "PatrickJS <patrick@angularclass.com>",
@@ -10,6 +10,9 @@
     "plugin",
     "core-js",
     "corejs",
+    "core-js-builder",
+    "polyfill",
+    "polyfills",
     "builder",
     "webpackplugin"
   ],
