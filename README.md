@@ -2,9 +2,6 @@
 [core-js](https://github.com/zloirock/core-js#custom-build-from-external-scripts) builder as a Webpack Plugin
 
 
-### Custom build (from external scripts)
-
-[`core-js-builder`](https://www.npmjs.com/package/core-js-builder) package exports a function that takes the same parameters as the `build` target from the previous section. This will conditionally include or exclude certain parts of `core-js`:
 
 ```js
 plugins: [
